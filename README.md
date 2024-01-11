@@ -2,6 +2,6 @@
 - 👀 I’m interested in all things code
 - 🌱 I’m currently learning embedded systems!
 - 💞️ I’m looking to collaborate on... what do you have in mind?
-- 📫 How to reach me: keeliamattison@gmail.com
+- 📫 How to reach me: kmatworking@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Whenever I'm at my computer I accumulate more beverages the longer I sit there.
